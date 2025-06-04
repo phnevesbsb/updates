@@ -1,5 +1,3 @@
-# Change Log
-
 ## Script TWN - V2.4
 
 * Menu Adjustments:
