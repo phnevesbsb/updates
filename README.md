@@ -1,4 +1,4 @@
-## Script TWN - V2.4
+## Script TWN - UPDATE V2.4
 
 * Menu Adjustments:
   * You now need to use Freeze Reward to unlock the other options.
